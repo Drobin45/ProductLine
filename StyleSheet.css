@@ -19,11 +19,16 @@ div.picsPara {
 }
 
 #picOne {
+    
  
 }
 #picTwo{
-    margin:15px;
+    margin:15px;    
 }
 #picThree{
     margin:15px;
+   
+}
+div.statements{
+    column-count:3;
 }
