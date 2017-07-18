@@ -1,0 +1,29 @@
+﻿body {   
+}
+
+ .navi {
+     width: 240px;
+     background-color:#B4FEFF;
+     text-decoration: none;
+     text-align: center;
+          }
+.title {
+    text-align: center;
+    font-family: font-family: 'Cedarville Cursive', cursive;
+}
+#paraOne {
+    text-align: center;
+}
+div.picsPara { 
+    column-count:3;       
+}
+
+#picOne {
+ 
+}
+#picTwo{
+    margin:15px;
+}
+#picThree{
+    margin:15px;
+}
